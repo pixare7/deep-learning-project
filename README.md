@@ -41,6 +41,6 @@ The deep learning model achieved a highest accuracy of almost 73%, falling short
 ## Future Work
 
 Further efforts to enhance model performance could include:
-- Testing alternative machine learning algorithms, such as ensemble methods.
+- Testing alternative machine learning algorithms, such as ensemble methods like Random Forest, can often improve accuracy, robustness, and generalization. These methods work by minimizing overfitting and capturing more complex patterns in the data, leading to more reliable predictions.
 - Conducting feature engineering to create or transform variables that may be more predictive.
 - Adjusting for potential class imbalance to improve the model's ability to correctly identify successful applicants.
